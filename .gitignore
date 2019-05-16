@@ -1,0 +1,7 @@
+/node_modules
+/src/fonts
+/src/images
+/src/styles
+/src/views
+gulpfile.js
+/.tmp
