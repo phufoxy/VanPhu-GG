@@ -5,3 +5,4 @@
 /src/views
 gulpfile.js
 /.tmp
+package.json
